@@ -1,0 +1,1 @@
+start C:\Users\krott\AppData\Local\JetBrains\Toolbox\apps\PhpStorm\ch-0\213.7172.28\bin\phpstorm64.exe
